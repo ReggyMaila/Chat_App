@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+*.log
+# Builds
+dist/
+build/
+# OS junk
+.DS_Store
+# React Vite output
+frontend/dist/
+backend/node_modules/
+frontend/node_modules/
